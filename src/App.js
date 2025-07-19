@@ -11,7 +11,7 @@ const golfers = {
   "Andrew Salzillo": { mean: 4.69, std: 0.83 }
 };
 
-const API_URL = "https://your-api-name.onrender.com/simulate"; // replace this
+const API_URL = "https://golf-simulator-api.vercel.app/simulate"; // replace this
 
 function App() {
   const [golfer1, setGolfer1] = useState("Stephen Markos");
