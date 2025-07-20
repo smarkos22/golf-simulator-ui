@@ -20,7 +20,7 @@ const courses = [
   "The Loop (Forest Dunes, tips average)"
 ];
 
-const API_URL = "http://localhost:8000/simulate";
+const API_URL = "https://golf-simulator-backend.fly.dev/simulate";
 
 function App() {
   const [golfer1, setGolfer1] = useState("Stephen Markos");
