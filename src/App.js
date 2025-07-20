@@ -20,6 +20,7 @@ const courses = [
   "The Loop (Forest Dunes, tips average)"
 ];
 
+// ✅ Updated API URL to live backend
 const API_URL = "https://golf-simulator-backend.fly.dev/simulate";
 
 function App() {
